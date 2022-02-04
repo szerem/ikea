@@ -5,3 +5,13 @@ https://www.ikea.com/addon-app/platsa/m2/latest/pl/pl/#H97S7H/checkout?linkType=
 
 H97SMQ
 https://www.ikea.com/addon-app/platsa/latest/#/m2/pl/pl/pickinglist/H97SMQ
+
+
+
+H984W3
+https://www.ikea.com/addon-app/platsa/latest/#/m2/cz/cs/pickinglist/H984W3
+
+
+
+H974K5
+https://www.ikea.com/addon-app/platsa/latest/#/m2/de/de/pickinglist/H974K5
